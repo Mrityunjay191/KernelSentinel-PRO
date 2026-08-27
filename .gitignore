@@ -1,0 +1,19 @@
+# Windows temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio / Compiler artifacts
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.log
+.vs/
+
+# Crash dumps & temp files
+*.tmp
+*.bak
+*.swp

@@ -1,0 +1,43 @@
+================================================================================
+           KERNEL SENTINEL PRO - GITHUB REPOSITORY METADATA & GUIDE
+================================================================================
+
+[1] REPOSITORY NAME (Choose one):
+---------------------------------
+Recommended:
+KernelSentinel-Pro
+
+Alternatives:
+kernel-sentinel-pro
+KernelSentinel
+ZeroLag-Sentinel
+AimbotXd-KernelSentinel
+
+
+[2] REPOSITORY DESCRIPTION (Copy & Paste):
+------------------------------------------
+Option 1 (Recommended):
+Blazing-fast Windows NT Kernel monitor, 60 FPS live telemetry dashboard, game ping matrix & 1-click system cleaner.
+
+Option 2 (Gaming Focus):
+Zero-lag Windows system administration, Ring 0 kernel diagnostics, 20+ server game ping benchmark & DirectX shader cache purge engine.
+
+Option 3 (Minimal):
+Ultra-low latency Windows kernel sentinel, real-time hardware telemetry and 1-click working set RAM optimizer.
+
+
+[3] REPOSITORY TOPICS / TAGS:
+-----------------------------
+windows, kernel, cpp, system-monitor, telemetry, optimizer, win32, low-latency, gaming, streamer-tools, benchmark, ring0
+
+
+[4] QUICK GIT PUSH COMMANDS (Run inside this folder):
+------------------------------------------------------
+git init
+git add .
+git commit -m "feat: initial release of KernelSentinel PRO v2.0"
+git branch -M main
+git remote add origin https://github.com/YOUR_GITHUB_USERNAME/KernelSentinel-Pro.git
+git push -u origin main
+
+================================================================================
